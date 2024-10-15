@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.sec1{
+    height: 80vh;
+    width: 100%;
+    background-color: pink;
+}
+
+.img1 img{
+    border-radius: 50%;
+    width: 20%;
+    height: 20%;
+    position: inherit;
+}
+
+.sec2{
+    height: 80vh;
+    width: 100%;
+    background-color: rgb(102, 182, 228);
+}
+
+.sec3{
+    height: 80vh;
+    width: 100%;
+    background-color: rgb(180, 118, 180);
+}
+
+.sec4{
+    height: 80vh;
+    width: 100%;
+    background-color: rgb(175, 164, 164);
+}
+
+.sec5{
+    height: 80vh;
+    width: 100%;
+    background-color: rgb(207, 184, 107);
+}
